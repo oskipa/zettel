@@ -1,0 +1,16 @@
+# not relevant
+site/
+
+# These should be created
+tags
+index
+
+# The extra files
+.DS_Store
+.byebug_history
+
+# The vim bits
+*.*~
+*.*.swp
+*.*.swo
+
